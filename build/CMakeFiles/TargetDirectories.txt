@@ -1,3 +1,0 @@
-/home/thomas/epitech/year1/CPE-unit/setting-up/setting-up/build/CMakeFiles/setting_up.dir
-/home/thomas/epitech/year1/CPE-unit/setting-up/setting-up/build/CMakeFiles/edit_cache.dir
-/home/thomas/epitech/year1/CPE-unit/setting-up/setting-up/build/CMakeFiles/rebuild_cache.dir
